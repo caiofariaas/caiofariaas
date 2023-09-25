@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/caiofariaas/">Eduardo Ribeiro 😃️</a>
+    <a href="https://www.linkedin.com/in/caiofariaas/">Caio Farias</a>
   </h1>
 
 </div>
