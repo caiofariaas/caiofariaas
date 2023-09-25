@@ -7,7 +7,11 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofariaas&layout=compact&langs_count=8&theme=nord"/>
 </div>
   <hr>
+  
+</div>
 
-  [![HitCount](https://hits.dwyl.com/caiofariaas/caiofariaas.svg)](https://hits.dwyl.com/caiofariaas/caiofariaas)
-
+<div>
+<a href="https://instagram.com/caiofariaas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:caio.farias077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/caiofariaas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
