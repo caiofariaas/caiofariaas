@@ -14,3 +14,9 @@
 <a href = "mailto:caio.farias077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caiofariaas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+---
+
+   |  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caiofariaas&count=2&width=650)     |  <img src="https://thumbs.gfycat.com/EntireBlackEchidna-max-1mb.gif"/>       |
+   |    :----:    |    :----:   |
+
+---
