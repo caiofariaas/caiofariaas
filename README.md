@@ -5,7 +5,7 @@
 </div>
   <hr>  
   
-[![Spotify](https://novatorem-mrb9lfy01-caiofariaas-projects.vercel.app(https://novatorem-caiofariaas-projects.vercel.app/)/api/spotify)](https://open.spotify.com/user/21ul4lfrjaas7zorjc5m2h2dq)
-  
+[![Spotify](https://novatorem-git-main-caiofariaas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21ul4lfrjaas7zorjc5m2h2dq)  
+
 </div>
 
